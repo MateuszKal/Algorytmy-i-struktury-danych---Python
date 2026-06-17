@@ -1,2 +1,2 @@
 # Algorytmy-i-struktury-danych---Python
-Repozytorium do programów z algorytmów z  Przedmiotu Algorytmy i struktury danych.
+Repozytorium do algorytmów z Przedmiotu Algorytmy i struktury danych.
